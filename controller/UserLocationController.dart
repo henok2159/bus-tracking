@@ -54,6 +54,7 @@ class UserLocationController extends GetxController {
       ),
       icon: icon.value,
     );
+    
     markers[mi] = m;
   }
 
